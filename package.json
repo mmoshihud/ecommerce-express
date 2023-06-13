@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "A ecommerce api service",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fahim & Moshihud",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.5"
+  }
+}
